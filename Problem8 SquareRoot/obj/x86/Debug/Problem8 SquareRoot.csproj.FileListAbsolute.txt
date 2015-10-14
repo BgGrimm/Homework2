@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Homework2\Problem8 SquareRoot\bin\Debug\Problem8 SquareRoot.exe
+C:\Users\Margarit\Desktop\Homework2\Problem8 SquareRoot\bin\Debug\Problem8 SquareRoot.pdb
+C:\Users\Margarit\Desktop\Homework2\Problem8 SquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Homework2\Problem8 SquareRoot\obj\x86\Debug\Problem8 SquareRoot.exe
+C:\Users\Margarit\Desktop\Homework2\Problem8 SquareRoot\obj\x86\Debug\Problem8 SquareRoot.pdb

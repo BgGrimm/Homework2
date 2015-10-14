@@ -1,0 +1,7 @@
+C:\Users\Margarit\Desktop\Homework2\Problem4 HelloCSharp\bin\Debug\Problem4 HelloCSharp.exe
+C:\Users\Margarit\Desktop\Homework2\Problem4 HelloCSharp\bin\Debug\Problem4 HelloCSharp.pdb
+C:\Users\Margarit\Desktop\Homework2\Problem4 HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Homework2\Problem4 HelloCSharp\obj\x86\Debug\Problem4 HelloCSharp.exe
+C:\Users\Margarit\Desktop\Homework2\Problem4 HelloCSharp\obj\x86\Debug\Problem4 HelloCSharp.pdb
+C:\Users\Margarit\Desktop\Software University\Homework2\Problem4 HelloCSharp\obj\x86\Debug\Problem4 HelloCSharp.exe
+C:\Users\Margarit\Desktop\Software University\Homework2\Problem4 HelloCSharp\obj\x86\Debug\Problem4 HelloCSharp.pdb

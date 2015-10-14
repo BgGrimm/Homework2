@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Homework2\Problem5 PrintMyName\bin\Debug\Problem5 PrintMyName.exe
+C:\Users\Margarit\Desktop\Homework2\Problem5 PrintMyName\bin\Debug\Problem5 PrintMyName.pdb
+C:\Users\Margarit\Desktop\Homework2\Problem5 PrintMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Homework2\Problem5 PrintMyName\obj\x86\Debug\Problem5 PrintMyName.exe
+C:\Users\Margarit\Desktop\Homework2\Problem5 PrintMyName\obj\x86\Debug\Problem5 PrintMyName.pdb

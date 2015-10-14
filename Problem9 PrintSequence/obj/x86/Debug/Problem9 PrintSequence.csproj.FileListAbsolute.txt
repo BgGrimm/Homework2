@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Homework2\Problem9 PrintSequence\bin\Debug\Problem9 PrintSequence.exe
+C:\Users\Margarit\Desktop\Homework2\Problem9 PrintSequence\bin\Debug\Problem9 PrintSequence.pdb
+C:\Users\Margarit\Desktop\Homework2\Problem9 PrintSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Homework2\Problem9 PrintSequence\obj\x86\Debug\Problem9 PrintSequence.exe
+C:\Users\Margarit\Desktop\Homework2\Problem9 PrintSequence\obj\x86\Debug\Problem9 PrintSequence.pdb

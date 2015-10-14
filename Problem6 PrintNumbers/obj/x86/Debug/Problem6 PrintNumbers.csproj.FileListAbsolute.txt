@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Homework2\Problem6 PrintNumbers\bin\Debug\Problem6 PrintNumbers.exe
+C:\Users\Margarit\Desktop\Homework2\Problem6 PrintNumbers\bin\Debug\Problem6 PrintNumbers.pdb
+C:\Users\Margarit\Desktop\Homework2\Problem6 PrintNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Homework2\Problem6 PrintNumbers\obj\x86\Debug\Problem6 PrintNumbers.exe
+C:\Users\Margarit\Desktop\Homework2\Problem6 PrintNumbers\obj\x86\Debug\Problem6 PrintNumbers.pdb
